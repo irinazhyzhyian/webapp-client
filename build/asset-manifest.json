@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.js": "/static/js/main.ef42863d.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/chnu.jpeg": "/static/media/chnu.8e5dc35c18f638487053.jpeg",
+    "static/media/zvit.pdf": "/static/media/zvit.48ab3bb85619da047ecf.pdf",
+    "static/media/certificate.pdf": "/static/media/certificate.d26965807fc6a2adc383.pdf",
+    "static/media/zvitComisii.pdf": "/static/media/zvitComisii.436365ebc7d6f33c0fe4.pdf",
+    "static/media/ger.pdf": "/static/media/ger.02f6a100bc88fd79a5c1.pdf",
+    "static/media/radaFacultetu.png": "/static/media/radaFacultetu.b359ecdad616f242f0df.png",
+    "static/media/vchenaRada.png": "/static/media/vchenaRada.2cdee8076e58f239d31a.png",
+    "static/media/kafedra.png": "/static/media/kafedra.e0f70d8231374fab74c9.png",
+    "static/media/emptyFile.png": "/static/media/emptyFile.e0a71a74dc5c2dc3f461.png",
+    "static/media/rishennia.pdf": "/static/media/rishennia.1e48777d74231b834fb4.pdf",
+    "static/media/file-img.png": "/static/media/file-img.fa396a55d920d7faaeee.png",
+    "static/media/logo.png": "/static/media/logo.a874e403ffc478bb9ee6.png",
+    "index.html": "/index.html",
+    "main.ef42863d.js.map": "/static/js/main.ef42863d.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.ef42863d.js"
+  ]
+}
